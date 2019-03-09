@@ -1,37 +1,22 @@
 Countries,1instances,2instances,SupremeCourts
 Albania,88,384,3482
-Andorra,,,
-Armenia,174,,61
 Austria,57,66,127
 Azerbaijan,28,69,78
-Belgium,,,351
-Bosnia and Herzegovina,760,483,368
+Bosnia-Herzegovina,760,483,368
 Bulgaria,84,76,176
 Croatia,117,264,666
-Cyprus,862,,2920
 Czech Republic,155,70,181
-Denmark,21,141,207
 Estonia,40,95,147
 Finland,113,138,213
-France,312,426,324
 Georgia,132,134,146
-Germany,,,244
-Greece,,,900
 Hungary,57,84,184
-Iceland,,,165
-Ireland,,,219
 Italy,387,945,1308
-Latvia,160,145,
 Lithuania,41,124,157
-Luxembourg,,,276
-Malta,446,,
 Monaco,157,326,205
 Montenegro,180,60,38
-Netherlands,83,348,
 Norway,156,140,354
 Poland,85,151,461
-Portugal,,198,142
-Republic of Moldova,116,97,24
+Moldova,116,97,24
 Romania,154,131,179
 Serbia,266,169,192
 Slovakia,98,102,160
@@ -41,6 +26,3 @@ Sweden,132,136,84
 Switzerland,113,196,124
 Macedonia,165,106,308
 Ukraine,72,55,160
-UK-England and Wales,,,
-UK-Northern Ireland,,,
-UK-Scotland,,,
