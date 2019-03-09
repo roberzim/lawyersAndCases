@@ -1,5 +1,5 @@
 # Lawyers & Cases
-## pythonic exercises for a course about python
+## pythonic exercises
 ### by roberzim
 ### 09/03/2019
 ### python 3.7.1 
