@@ -1,10 +1,10 @@
 # Lawyers & Cases
-## pythonic exercises
-### by roberzim
-### 09/03/2019
-### python 3.7.1 
-### pandas 0.23.4 
-### matplotlib 3.0.2 
+# pythonic exercises for a course about python
+# by roberzim
+# 09/03/2019
+# python 3.7.1 
+# pandas 0.23.4 
+# matplotlib 3.0.2 
 
 State the region and the domain category that your data sets are about (e.g., Chaohu, China and sports or athletics):
 Region: Europe
@@ -28,11 +28,8 @@ You must contribute a short (1-2 paragraph) written justification of how your vi
 The visualization concerns the relationship between the number of inhabitants, the lawyers and the jurisprudence of the selected European countries.
 The research required to have datasets without missing data therefore some European countries were excluded. Although present in the datasets, even Monaco has been excluded from research as a particularly anomalous country.
 
-The visualization consists of two figures. The first relates, depending on the country, the number of inhabitants, the number of cases, the number of lawyers and the number of cases per lawyer using bar graphs. The type of search and the size of the data did not allow data overlap.
-The second figure instead reports the statistical correlations between lawyers and residents and between lawyers and cases.
-Both figures allow you to interact with the graph for more details.
-From the combination of the figures, although there are significant outliers, there is a positive correlation between the number of inhabitants and lawyers and a negative correlation between the number of lawyers and cases.
-It should also be noted that, in relation to other countries, Italy has the highest number of lawyers per inhabitant, but one of the lowest number of cases. This aspect is even more significant considering that many lawyers registered in Italy are actually Italians who have obtained the title of "abogados" in Spain.
+The visualization concerns the relationship between the number of inhabitants, the lawyers and judicial cases of the selected European countries. The research required to have datasets without missing data, therefore some European countries were excluded. Although present in the datasets, even Monaco has been excluded from research as a particularly anomalous country.
+The visualization consists of two figures. The first relates, depending on the country, the number of inhabitants, to the number of cases, the number of lawyers and the number of cases per lawyer using bar graphs. The type of search and the size of the data did not allow data overlap. The second figure reports the statistical correlations between lawyers and inhabitants and between lawyers and cases. Both figures allow you to interact with the graph for more details. Although there are significant outliers, there seems to be a positive correlation between the number of inhabitants and lawyers and a negative correlation between the number of lawyers and cases. It should also be noted that, in relation to other countries, Italy has the highest number of lawyers per inhabitant, but one of the lowest number of cases. This aspect is even more significant considering that many lawyers registered in Italy are actually Italians who have obtained the title of "abogados" in Spain.
 
 
 
