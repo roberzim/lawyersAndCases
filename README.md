@@ -1,10 +1,10 @@
 # Lawyers & Cases
-# pythonic exercises for a course about python
-# by roberzim
-# 09/03/2019
-# python 3.7.1 
-# pandas 0.23.4 
-# matplotlib 3.0.2 
+## pythonic exercises for a course about python
+### by roberzim
+### 09/03/2019
+### python 3.7.1 
+### pandas 0.23.4 
+### matplotlib 3.0.2 
 
 State the region and the domain category that your data sets are about (e.g., Chaohu, China and sports or athletics):
 Region: Europe
